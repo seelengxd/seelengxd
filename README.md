@@ -3,8 +3,6 @@
 * 🌱 Currently a second year Computer Science student in NUS.
 * 🔥 Mainly interested in web development and automating stuff. 
 
-![See Leng's GitHub stats](https://github-readme-stats-rouge-zeta.vercel.app/api?username=seelengxd&count_private=true&show_icons=true&theme=dark&hide_border=true)
-
 ### 🛠️ I've worked with:
 
 #### Languages:
