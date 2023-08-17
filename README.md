@@ -1,6 +1,6 @@
 ## Hi, I'm See Leng 👋 
 
-* 🌱 Currently a second year Computer Science student in NUS.
+* 🌱 Currently a third year Computer Science student in NUS.
 * 🔥 Mainly interested in web development and automating stuff. 
 
 ### 🛠️ I've worked with:
