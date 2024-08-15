@@ -2,7 +2,7 @@
 
 ---
 
-I am a third year Computer Science student in NUS. My main interests lie in **web development** and **automating stuff**. Making little projects that look cool and actually solve problems (or alternatively, are [comedically stupid](https://github.com/chloeelim/longestmrt)) makes me happy. Feel free to check out some of my projects I pinned below!
+I am a fourth year Computer Science student in NUS. My main interests lie in **web development** and **automating stuff**. Making little projects that look cool and actually solve problems (or alternatively, are [comedically stupid](https://github.com/chloeelim/longestmrt)) makes me happy. Feel free to check out some of my projects I pinned below!
 
 ---
 
