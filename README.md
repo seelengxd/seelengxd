@@ -23,8 +23,8 @@ I am a fourth year Computer Science student in NUS. My main interests lie in **w
 #### Frameworks & Tools:
 
 <span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40px" alt="fastapi" title="fastapi"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40px" alt="postgresql" title="postgresql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40px" alt="rails" title="rails"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40px" alt="mongodb" title="mongodb"/>
   <!-- Express -->
   <svg viewBox="0 0 128 128" fill="white" height="40px">
